@@ -1,0 +1,43 @@
+.Colors {
+    width: 100%;
+    height: 500px;
+    border: 2px solid black;
+    font-family:'Courier New', Courier, monospace;
+}
+.Colors h2 {
+    padding: 36.5px 0px 36.5px 20px;
+    margin: 0;
+}
+.Colors ol {
+    font-size: 18px;
+    padding-left: 50px;
+    margin: 0;
+}
+.Colors ul {
+    padding: 49px 0px 49px 20px;
+    margin: 0;
+}
+.Colors ul li {
+    width: 350px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    display: inline-block;
+}
+.blue {
+    color: white;
+    background-color: #2d5dcc;
+}
+.pink {
+    color: white;
+    background-color: #d957d9;
+}
+.green {
+    color: #255248;
+    background-color: #4fe0b0;
+}
+.beige {
+    color: #674ea7;
+    background-color: #efd9ca;
+    margin-top: 10px;
+}
